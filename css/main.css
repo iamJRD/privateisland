@@ -3,7 +3,9 @@ h1 {
 }
 
 p {
-  line-height: 16px;
+  line-height: 20px;
+  font-size: 20px;
+  color: #54737D;
 }
 
 body {
@@ -11,9 +13,9 @@ body {
 }
 
 .gallery {
-  margin: 5px;
+  margin: 15px;
   float: left;
-  width: 180px;
+  width: 380px;
 }
 
 ul {
