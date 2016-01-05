@@ -1,0 +1,17 @@
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  line-height: 16px;
+}
+
+body {
+  text-align: center;
+}
+
+.gallery {
+  margin: 5px;
+  float: left;
+  width: 180px;
+}
