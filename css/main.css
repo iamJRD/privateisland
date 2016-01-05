@@ -1,15 +1,17 @@
+body {
+  text-align: center;
+  background-color: #ACFAFA;
+}
+
 h1 {
   font-family: sans-serif;
+  color: #38D94B;
 }
 
 p {
   line-height: 20px;
   font-size: 20px;
-  color: #54737D;
-}
-
-body {
-  text-align: center;
+  color: #3876D9;
 }
 
 .gallery {
@@ -21,4 +23,12 @@ body {
 ul {
   list-style-type: none;
   padding-right: 30px;
+}
+
+a:hover {
+  color: #D99B38;
+}
+
+a:active {
+  color: #D938C7;
 }
